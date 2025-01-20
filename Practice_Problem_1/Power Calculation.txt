@@ -1,0 +1,10 @@
+import java.util.*;
+class Powercalculation{
+	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+		double base = sc.nextDouble();
+		double expo = sc.nextDouble();
+		double res = Math.pow(base, expo);
+		System.out.println("Result after power calculation is : " + res);
+	}
+}

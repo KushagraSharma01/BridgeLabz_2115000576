@@ -1,0 +1,11 @@
+import java.util.*;
+class Volumeofacylinder{
+	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+		double r = sc.nextDouble();
+		double h = sc.nextDouble();
+		double pi = 3.1415;
+		double volume = pi*r*r*h;
+		System.out.println("Volume of cylinder is : " + volume);
+	}
+}

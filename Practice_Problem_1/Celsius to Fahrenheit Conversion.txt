@@ -1,0 +1,9 @@
+import java.util.*;
+class Celciustofahrenheit{
+	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+		double c = sc.nextDouble();
+		double f = (c*(double)9/5) + 32;
+		System.out.println("Temperature in Fahrenheit is : " + f);
+	}
+}
