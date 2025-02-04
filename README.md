@@ -1,7 +1,7 @@
 Readme file for the records of all the assignments
 
 ## Assignment 1 -> Date : 20-01-2025
-  About - Questions based on the following concepts :-
+  About - Questions based on the following concepts :-<br>
           # Variables, Literals, Primitive Data Types, Basic I/O, Operators
           # Best Practices in Naming Convention
 
