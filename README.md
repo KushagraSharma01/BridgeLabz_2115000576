@@ -1,4 +1,4 @@
-Readme file for the records of all the assignments
+<h3>Readme file for the records of all the assignments</h3>
 
 ## Assignment 1 -> Date : 20-01-2025
   About - Questions based on the following concepts :-<br>
