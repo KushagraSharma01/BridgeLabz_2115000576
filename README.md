@@ -56,4 +56,15 @@
           # "static" keyword is used to associate variables and methods directly to class<br>
           # "final" keyword is used to make the assignment to variables permanent and unchangeble<br>
           # "instanceof" operator is used to identify the class type of an object
+
+## Assignment 10 -> Date : 06-02-2025          (Branch : feature10/06-02-2025)
+<h4>Three Problem Sets are given :-</h4><br>
+          # Sample Problems<br>
+          # Assited Problems<br>
+          # Self Problems<br>
+<h5>About - Questions based on the following concepts :-</h5><br>
+          # Object Oriented Design Priciples<br>
+          # Class Diagram<br>
+          # Object Diagram<br>
+          # Sequence Diagram
           
