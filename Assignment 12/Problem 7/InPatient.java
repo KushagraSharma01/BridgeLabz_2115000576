@@ -22,7 +22,7 @@ class InPatient extends Patient implements MedicalRecord{
 	
 	public void viewRecords(){
 		System.out.println("Patient Name is : "+getName());
-		System.out.println("Patient id is : "+getPatientId);
+		System.out.println("Patient id is : "+getPatientId());
 		System.out.println("Patient age is : "+getAge());
 		System.out.println("Patient disease is :"+this.disease);
 	}

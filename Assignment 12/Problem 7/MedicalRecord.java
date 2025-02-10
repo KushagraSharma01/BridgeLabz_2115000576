@@ -1,6 +1,6 @@
 interface MedicalRecord{
 	
-	public void addRecord();
+	public void addRecord(String disease);
 	
 	public void viewRecords();
 
