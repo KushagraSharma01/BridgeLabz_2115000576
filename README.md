@@ -85,4 +85,11 @@
           # Constructor Inheritance in Java<br>
           # Polymorphism and Inheritance<br>
           # Access Modifiers and Inheritance
+
+## Assignment 12 -> Date : 10-02-2025          (Branch : feature12/10-02-2025)
+<h5>About - Questions based on the following concepts :-</h5><br>
+          # Encapsulation<br>
+          # Polymorphism <br>
+          # Interface <br>
+          # Abstract Classes
           
