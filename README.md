@@ -135,3 +135,11 @@
 	  # Best, Worst, and Average Case Complexities<br>
 	  # Practical Guidelines for Optimizing Java Code
 
+## Assignment 18 -> Date : 18-02-2025          (Branch : feature18/18-02-2025)
+<h5>About - Questions based on the following concepts :-</h5><br>
+          # Introduction to Generics<br>
+          # Type Parameters<br>
+          # Generic Classes<br>
+          # Generic Methods<br>
+          # Bounded Type Parameters<br>
+          # Wildcards
