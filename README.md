@@ -143,3 +143,14 @@
           # Generic Methods<br>
           # Bounded Type Parameters<br>
           # Wildcards
+
+## Assignment 19 -> Date : 20-02-2025          (Branch : feature19/20-02-2025)
+<h5>About - Questions based on the following concepts :-</h5><br>
+          # Overview of Collections Framework<br>
+          # Hierarchy of Collections Framework<br>
+          # List Interface and Implementing Classes<br>
+          # Set Interface and Implementing Classes<br>
+          # Queue and Deque Interfaces<br>
+          # Map Interface and Its Implementations<br>
+          # Comparison of Different Implementations<br>
+          # Real-World Use Cases and Best Practices.
